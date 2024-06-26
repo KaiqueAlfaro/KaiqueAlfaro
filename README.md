@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá! Meu nome é Kaique Freitas Alfaro, tenho 28 anos e estou em transição de carreira para o campo da tecnologia desde 2024. Atualmente, estou focando meus estudos principalmente em Python, buscando aprofundar meu conhecimento nesta linguagem versátil e poderosa. Estou animado para iniciar minha jornada profissional na área de tecnologia e estou em busca de oportunidades para aplicar e expandir minhas habilidades.
 
 <!--
 **KaiqueAlfaro/KaiqueAlfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
